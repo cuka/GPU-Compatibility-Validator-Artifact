@@ -1,0 +1,13 @@
+{
+  "schema_version": "3.0",
+  "profile_id": "development_conformance_fp64_v3",
+  "profile_status": "development",
+  "scope": "conformance",
+  "device_selection": {
+    "mode": "all_visible"
+  },
+  "parameters_sha256": "74d54d6072584e11f2b5de11b7eae73f4f9fea17d63598c4f7e5e9c69f0eed69",
+  "validator_abi": "3.1",
+  "native_sha256": "238c8c808d1992aa72fdac107cd91efc06cd60c74c4056fd682647ad6b235bf5",
+  "skip_device_fp64": false
+}

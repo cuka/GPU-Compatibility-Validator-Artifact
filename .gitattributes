@@ -1,0 +1,7 @@
+* text=auto
+/SHA256SUMS text eol=lf
+/profiles/*.json text eol=lf
+/parameters/*.json text eol=lf
+/wheelhouse/*.whl binary
+releases/** -text
+environment.tar.gz.part* -text -diff -merge

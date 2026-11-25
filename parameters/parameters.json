@@ -1,0 +1,1 @@
+{"algorithm_version":"3.0","modulus":65521,"parameter_set":"public_constants_v1","parameters":[17,29,13,7],"schema_version":"3.0","scheme":"public_modular_v1","sets":{"A":[17,29,13,7],"B":[19,31,11,5]},"test_only":true}
